@@ -741,7 +741,7 @@ body._lock {
       max-width: 900px; } }
   @media (max-width: 767px) {
     .menu-slider__row._active {
-      max-width: auto; } }
+      max-width: 100%; } }
 
 .menu-slider__sliders {
   display: flex;
