@@ -512,7 +512,7 @@ body._lock {
 	&__cards {
 		margin: 0 -15px;
 		display: flex;
-		justify-content: center;
+		justify-content: space-between;
 		flex-wrap: wrap;
 		@media (max-width: 519px) {
 			align-items: center;
