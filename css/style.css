@@ -1034,6 +1034,7 @@ body._lock {
   .products__cards {
     margin: 0 -15px;
     display: flex;
+    justify-content: center;
     flex-wrap: wrap; }
     @media (max-width: 519px) {
       .products__cards {
