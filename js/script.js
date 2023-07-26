@@ -256,7 +256,7 @@ function initRatings() {
 	}
 
 	function setRatingActiveWidth(index = ratingValue.innerHTML) {
-		const ratingActiveWidth = index / 0.05;
+		const ratingActiveWidth = index / 0.005;
 		ratingActive.style.width = `${ratingActiveWidth}%`;
 	}
 }
