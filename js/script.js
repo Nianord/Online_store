@@ -82,7 +82,7 @@ let secondSlider = new Swiper('.second-slider', {
 		onlyInViewport: true,
 		pageUpDown: true,
 	},
-	autoHeight: true,
+	//autoHeight: true,
 	slidesPerView: 1,
 	spaceBetween: 1000,
 	slideToClickedSlide: true,
