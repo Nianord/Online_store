@@ -225,7 +225,11 @@ body._lock {
 	margin: 0px 20px;
 	position: relative;
 	overflow: hidden;
-
+	&__wrapper {
+		display: flex;
+		justify-content: stretch;
+		align-items: stretch;
+	}
 	&__slide {
 		display: flex;
 		flex-direction: column;
