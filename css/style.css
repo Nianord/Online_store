@@ -794,6 +794,10 @@ body._lock {
   margin: 0px 20px;
   position: relative;
   overflow: hidden; }
+  .second-slider__wrapper {
+  	display: flex;
+  	justify-content: stretch;
+  	align-items: stretch; }
   .second-slider__slide {
     display: flex;
     flex-direction: column;
